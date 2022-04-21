@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lb3r-app/static/css/main.aee92906.css",
+    "main.js": "/lb3r-app/static/js/main.fa9619bf.js",
+    "static/js/787.9005a63c.chunk.js": "/lb3r-app/static/js/787.9005a63c.chunk.js",
+    "index.html": "/lb3r-app/index.html",
+    "main.aee92906.css.map": "/lb3r-app/static/css/main.aee92906.css.map",
+    "main.fa9619bf.js.map": "/lb3r-app/static/js/main.fa9619bf.js.map",
+    "787.9005a63c.chunk.js.map": "/lb3r-app/static/js/787.9005a63c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee92906.css",
+    "static/js/main.fa9619bf.js"
+  ]
+}
